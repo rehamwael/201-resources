@@ -114,6 +114,7 @@ ul li {
     color: #7a61d4;
     font-weight: bold;
     font-size: 22px;
+    margin-bottom: 20px;
 }
 ul li a:hover{
     color: #e62645;
@@ -123,8 +124,9 @@ ul li a {
     transition: all 0.6s ease-in-out;
     font-weight: 300;
     font-size:18px;
-    padding: 10px 0px 20px;
+    padding:10px 0px 0;
     display: block;
+    width: max-content;
 }
 @media (min-width: 1200px){
     .container {

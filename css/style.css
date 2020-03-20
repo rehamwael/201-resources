@@ -154,6 +154,12 @@ ul li a {
         overflow-x: hidden;
 
     }
+    body .inner-header h1 {
+        float: left;
+        padding: 0px 32px;
+        margin: 17px 0;
+        font-size: 23px;
+    }
     .candy-box span {
         top: 40%;
         left: 43%;
